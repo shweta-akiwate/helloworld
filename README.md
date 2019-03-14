@@ -2,4 +2,4 @@
 
 this is my first code
 
-I LOVE :COFEE: :burger
+I Love :coffee: :pizza:
